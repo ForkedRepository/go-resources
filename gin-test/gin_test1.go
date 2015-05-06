@@ -1,4 +1,5 @@
 // test_gin
+// API reference http://godoc.org/github.com/gin-gonic/gin
 package main
 
 import (
@@ -7,7 +8,11 @@ import (
 )
 
 func main() {
+	// Returns a Engine instance with the Logger and Recovery already attached.
 	router := gin.Default()
+
+	// Engine contains a RouterGroup
+	// http://godoc.org/github.com/gin-gonic/gin#RouterGroup
 	router.GET("/", func(c *gin.Context) {
 		c.String(http.StatusOK, "hello world")
 	})
