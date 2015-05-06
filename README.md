@@ -1,9 +1,9 @@
 # go-resources
 A collection of resources for GO Lang
 
-- [Go cheatsheet](https://github.com/a8m/go-lang-cheat-sheet) - good link to have a general overview
+- [Go cheatsheet](https://github.com/a8m/go-lang-cheat-sheet) - start from here, good link to have a general overview
 - [Go built-in packages](https://golang.org/pkg/) - take a look to see what is up and ready to use
-- [HTTP in go](https://golang.org/pkg/net/) - basics of netowrk over http
+- [HTTP in go](https://golang.org/pkg/net/) - basics of netoworking over http
 - [Go on Reddit](http://www.reddit.com/r/golang/comments/1bxadf/how_did_you_learn_how_to_code_in_go/) - good place for starting hints
 - [Rob Pike, Go designer, presenting Go with slides - 1](http://go.googlecode.com/hg-history/release-branch.r60/doc/GoCourseDay1.pdf) - great if you want some details before starting for real
 - [Rob Pike, Go designer, presenting Go with slides - 2](http://go.googlecode.com/hg-history/release-branch.r60/doc/GoCourseDay2.pdf)
