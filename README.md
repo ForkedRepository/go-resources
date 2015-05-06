@@ -15,7 +15,8 @@ A collection of resources for GO Lang
 - [Go by example](https://gobyexample.com/)
 - [Rich Mongo driver for Go](https://labix.org/mgo)
 - [Really basic REST API framework for Go](https://github.com/dpapathanasiou/go-api)
-- [Martini](https://github.com/go-martini/martini)
-- [Negroni](https://github.com/codegangsta/negroni)
+- [Martini](https://github.com/go-martini/martini) - popular web apps framework
+- [Negroni](https://github.com/codegangsta/negroni) - good middleware for web app
 - [Go REST micro-framework](http://dougblack.io/words/a-restful-micro-framework-in-go.html)
-- [Gin](https://github.com/gin-gonic/gin)
+- [Gin](https://github.com/gin-gonic/gin) - good web framework
+- [Getting started with Go on Heroku](http://mmcgrana.github.io/2012/09/getting-started-with-go-on-heroku.html)
