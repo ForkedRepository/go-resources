@@ -22,7 +22,8 @@ A collection of resources for GO Lang
 - [Getting started with Go on Heroku](http://mmcgrana.github.io/2012/09/getting-started-with-go-on-heroku.html)
 - [Notable users](https://github.com/flynn/flynn)
 - [Popular external libraries](http://en.wikipedia.org/wiki/Go_(programming_language)#Libraries)
+- [POSTgre library for Go](https://github.com/lib/pq)
 
 Bigger projects
+
 - [Flynn, an open-source PaaS](https://github.com/flynn/flynn)
-- 
