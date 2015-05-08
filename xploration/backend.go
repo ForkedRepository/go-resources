@@ -30,9 +30,7 @@ func getResource(res string) []byte {
 	abs, err := os.Getwd()
 	dir := path.Join(abs, "xploration-data", res+".json")
 	file, err := os.Open(dir) // For read access.
-	if err != nil {
-		log.Fatal(err)
-	}
+
 	data := make([]byte, 9999)
 	count, err := file.Read(data)
 	if err != nil {
