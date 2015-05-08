@@ -1,4 +1,4 @@
-// test_gin
+// JSON static server for Xploration
 package main
 
 import (
@@ -17,7 +17,7 @@ func main() {
 
 	router.GET("/data/:resource", func(c *gin.Context) {
 		res := c.Params.ByName("resource")
-		m, err := simplejson.NewJson(getMissions(res))
+		m, err := simplejson.NewJson(getResource(res))
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -26,7 +26,7 @@ func main() {
 	router.Run(":8080")
 }
 
-func getMissions(res string) []byte {
+func getResource(res string) []byte {
 	abs, err := os.Getwd()
 	dir := path.Join(abs, "xploration-data", res+".json")
 	file, err := os.Open(dir) // For read access.
