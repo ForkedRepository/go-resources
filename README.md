@@ -24,6 +24,7 @@ A collection of resources for GO Lang
 - [Popular external libraries](http://en.wikipedia.org/wiki/Go_(programming_language)#Libraries)
 - [POSTgre library for Go](https://github.com/lib/pq)
 - [Pipe: using Linux CLI with Go](https://labix.org/pipe)
+- [Go: Concurrent Mongo queries (weather station example)](http://blog.mongodb.org/post/80579086742/running-mongodb-queries-concurrently-with-go)
 
 Bigger projects
 
