@@ -10,7 +10,7 @@ A collection of resources for GO Lang
 - [Rob Pike, Go designer, presenting Go with slides - 3](http://go.googlecode.com/hg-history/release-branch.r60/doc/GoCourseDay3.pdf)
 - [Build web application with go lang - book](https://docs.google.com/file/d/0B2GBHFyTK2N8TzM4dEtIWjBJdEk/)
 - [Go Lang Book](http://www.golang-book.com/) - a quite complete reference:
--- [Pointers](http://www.golang-book.com/8/index.htm)
+..- [Pointers](http://www.golang-book.com/8/index.htm)
 - [Network programming with Go](http://jan.newmarch.name/go/)
 - [Go Bootcamp - book](http://www.golangbootcamp.com/book)
 - [Building web app with Go](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
