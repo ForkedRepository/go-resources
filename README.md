@@ -9,6 +9,8 @@ A collection of resources for GO Lang
 - [Rob Pike, Go designer, presenting Go with slides - 2](http://go.googlecode.com/hg-history/release-branch.r60/doc/GoCourseDay2.pdf)
 - [Rob Pike, Go designer, presenting Go with slides - 3](http://go.googlecode.com/hg-history/release-branch.r60/doc/GoCourseDay3.pdf)
 - [Build web application with go lang - book](https://docs.google.com/file/d/0B2GBHFyTK2N8TzM4dEtIWjBJdEk/)
+- [Go Lang Book](http://www.golang-book.com/) - a quite complete reference:
+-- [Pointers](http://www.golang-book.com/8/index.htm)
 - [Network programming with Go](http://jan.newmarch.name/go/)
 - [Go Bootcamp - book](http://www.golangbootcamp.com/book)
 - [Building web app with Go](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
@@ -25,6 +27,7 @@ A collection of resources for GO Lang
 - [POSTgre library for Go](https://github.com/lib/pq)
 - [Pipe: using Linux CLI with Go](https://labix.org/pipe)
 - [Go: Concurrent Mongo queries (weather station example)](http://blog.mongodb.org/post/80579086742/running-mongodb-queries-concurrently-with-go)
+- [General features of Go](http://openmymind.net/Things-I-Wish-Someone-Had-Told-Me-About-Go/) - pointers and implicit interfaces
 
 Bigger projects
 
