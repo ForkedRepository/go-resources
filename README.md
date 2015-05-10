@@ -23,6 +23,7 @@ A collection of resources for GO Lang
 - [Notable users](https://github.com/flynn/flynn)
 - [Popular external libraries](http://en.wikipedia.org/wiki/Go_(programming_language)#Libraries)
 - [POSTgre library for Go](https://github.com/lib/pq)
+- [Pipe: using Linux CLI with Go](https://labix.org/pipe)
 
 Bigger projects
 
