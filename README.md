@@ -3,17 +3,20 @@ A collection of resources for GO Lang
 
 ### Starting Docs:
 
-- [Go cheatsheet](https://github.com/a8m/go-lang-cheat-sheet) - start from here, good link to have a general overview
-- [Go standard library](https://golang.org/pkg/) - take a look to see what is up and ready to use
-- [Go on Reddit](http://www.reddit.com/r/golang/comments/1bxadf/how_did_you_learn_how_to_code_in_go/) - good place for starting hints
-- [Go Lang Book](http://www.golang-book.com/) - a quite complete reference:
+How a Python developer approached Go:
+
+1. [Go cheatsheet](https://github.com/a8m/go-lang-cheat-sheet) - start from here, good link to have a general overview
+1. [Go standard library](https://golang.org/pkg/) - take a look to see what is up and ready to use
+1. [Go on Reddit](http://www.reddit.com/r/golang/comments/1bxadf/how_did_you_learn_how_to_code_in_go/) - good place for starting hints
+1. [Go Lang Book](http://www.golang-book.com/) - a quite complete reference:
   - [Pointers](http://www.golang-book.com/8/index.htm)
-- [Network programming with Go](http://jan.newmarch.name/go/)
-- [Effective Go](http://golang.org/doc/effective_go.html)
-- [Go Bootcamp - book](http://www.golangbootcamp.com/book)
-- [Go by example](https://gobyexample.com/)
-- [Getting started with Go on Heroku](http://mmcgrana.github.io/2012/09/getting-started-with-go-on-heroku.html)
-- [Popular external libraries](http://en.wikipedia.org/wiki/Go_(programming_language)#Libraries)
+  - [Data types and "classes"](http://www.golang-book.com/9/index.htm)
+1. [Network programming with Go](http://jan.newmarch.name/go/)
+1. [Effective Go](http://golang.org/doc/effective_go.html)
+1. [Go Bootcamp - book](http://www.golangbootcamp.com/book)
+1. [Go by example](https://gobyexample.com/)
+1. [Getting started with Go on Heroku](http://mmcgrana.github.io/2012/09/getting-started-with-go-on-heroku.html)
+1. [Popular external libraries](http://en.wikipedia.org/wiki/Go_(programming_language)#Libraries)
 
 ### Specific Themes:
 
