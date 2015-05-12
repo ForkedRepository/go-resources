@@ -13,13 +13,13 @@ type Being interface {
 	Talk()
 }
 
+func (p *Person) Talk() {
+	fmt.Println("Hi, my name is", p.Name)
+}
+
 // To describe Has-A relatioship
 type Person struct {
 	Name string
-}
-
-func (p *Person) Talk() {
-	fmt.Println("Hi, my name is", p.Name)
 }
 
 // To describe Is-A relationship
